@@ -4,24 +4,14 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 
 ---
 
-<h2 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/vikash-sharma-253457214/">Vikash Sharma</a> <span id="typed"></span></h2>
-
-<script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
-<script>
-  var typed = new Typed("#typed", {
-    strings: ["Developer.", "Coder.", "Tech Enthusiast."],
-    typeSpeed: 50,
-    backSpeed: 50,
-    loop: true
-  });
-</script>
+### Hi there, I'm Vikash Sharma, a Developer, Coder, and Tech Enthusiast.
 
 ---
 
 ### 👀 Interests
-- <img src="https://img.icons8.com/nolan/64/code.png" width="24px"/> **Coding:** I absolutely love to code! Whether it's crafting robust applications or solving complex problems, coding is my passion.
-- <img src="https://img.icons8.com/nolan/64/computer.png" width="24px"/> **Full-Stack Development:** I enjoy working across both front-end and back-end, exploring new technologies, and bringing ideas to life.
-- <img src="https://img.icons8.com/nolan/64/growth.png" width="24px"/> **Learning & Growth:** I'm always on the lookout for new opportunities to learn and grow in the tech world.
+- **Coding:** I absolutely love to code! Whether it's crafting robust applications or solving complex problems, coding is my passion.
+- **Full-Stack Development:** I enjoy working across both front-end and back-end, exploring new technologies, and bringing ideas to life.
+- **Learning & Growth:** I'm always on the lookout for new opportunities to learn and grow in the tech world.
 
 ---
 
@@ -36,7 +26,7 @@ Welcome to my GitHub profile! I'm thrilled to have you here.
 ---
 
 ### 🌱 Currently Learning
-- <img src="https://img.icons8.com/nolan/64/learning.png" width="24px"/> I'm diving deep into advanced DevOps practices, cloud computing, and refining my full-stack development skills to build even more efficient and scalable projects.
+- I'm diving deep into advanced DevOps practices, cloud computing, and refining my full-stack development skills to build even more efficient and scalable projects.
 
 ---
 
